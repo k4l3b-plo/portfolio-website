@@ -22,22 +22,11 @@ module.exports = {
         sans: ["'poppins'"],
       },
       colors: {
-        primarylight: '#FFFFFF',
+        primary: '#0E212F',
 
-        bglight: '#e5e5e5',
-
-        primarydark: '#1A242F',
-        // primarydark: '#15161A',
-
-        bgdark: '#283845',
-
-        lighttext: '#000',
-
-        darktext: '#fff',
+        bg: '#203442',
 
         btncolor: '#f64c56',
-
-        linkcolor: '#23577E',
       },
     }
   },
