@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
      <Intro />
-     <Nextport />
+     <Nextport className="z-50"/>
     </div>
   );
 }
